@@ -1,0 +1,50 @@
+body{
+	background-color: rgb(100, 162, 212);
+}
+
+h2{
+	margin: auto;
+}
+
+p{
+	margin-bottom: auto;
+}
+
+.navigasi{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: #6ac9e6;
+    padding: 10px;
+}
+
+.menu{
+	padding: 10px;
+    color: rgb(211, 238, 89);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.menu:hover{
+	background-color: #d89837;
+}
+
+.aktif{
+	background-color: #a7c2c5;
+}
+
+.home{
+	background-color: white;
+	padding: 10px;
+    text-align: justify;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.isi{
+	display: none;
+	background-color: white;
+	padding: 10px;
+    text-align: justify;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
